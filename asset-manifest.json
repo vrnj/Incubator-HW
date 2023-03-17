@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/Incubator-HW/static/css/main.284c7a1f.css",
-    "main.js": "/Incubator-HW/static/js/main.c6d29401.js",
+    "main.js": "/Incubator-HW/static/js/main.7f78c4d6.js",
     "static/js/787.66cb4309.chunk.js": "/Incubator-HW/static/js/787.66cb4309.chunk.js",
     "static/media/404.svg": "/Incubator-HW/static/media/404.dae7af4892f2a3abe805a174178919f2.svg",
     "static/media/closeOutline.svg": "/Incubator-HW/static/media/closeOutline.91a6693133923612a0702421ab3e9923.svg",
+    "static/media/editIcon.svg": "/Incubator-HW/static/media/editIcon.11c8e1c42f9a4eae81897d68e091eb42.svg",
     "static/media/checked.svg": "/Incubator-HW/static/media/checked.0b6a1bcf5d417ff0a947.svg",
     "index.html": "/Incubator-HW/index.html",
     "static/media/burger.svg": "/Incubator-HW/static/media/burger.e4e6b98e4ee0b2dfcd76d02a9eed2e34.svg",
     "main.284c7a1f.css.map": "/Incubator-HW/static/css/main.284c7a1f.css.map",
-    "main.c6d29401.js.map": "/Incubator-HW/static/js/main.c6d29401.js.map",
+    "main.7f78c4d6.js.map": "/Incubator-HW/static/js/main.7f78c4d6.js.map",
     "787.66cb4309.chunk.js.map": "/Incubator-HW/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.284c7a1f.css",
-    "static/js/main.c6d29401.js"
+    "static/js/main.7f78c4d6.js"
   ]
 }
