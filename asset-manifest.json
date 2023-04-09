@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Incubator-HW/static/css/main.284c7a1f.css",
-    "main.js": "/Incubator-HW/static/js/main.3408bc2e.js",
+    "main.js": "/Incubator-HW/static/js/main.1eb5afe1.js",
     "static/js/787.66cb4309.chunk.js": "/Incubator-HW/static/js/787.66cb4309.chunk.js",
     "static/media/404.svg": "/Incubator-HW/static/media/404.dae7af4892f2a3abe805a174178919f2.svg",
     "static/media/closeOutline.svg": "/Incubator-HW/static/media/closeOutline.91a6693133923612a0702421ab3e9923.svg",
@@ -10,11 +10,11 @@
     "index.html": "/Incubator-HW/index.html",
     "static/media/burger.svg": "/Incubator-HW/static/media/burger.e4e6b98e4ee0b2dfcd76d02a9eed2e34.svg",
     "main.284c7a1f.css.map": "/Incubator-HW/static/css/main.284c7a1f.css.map",
-    "main.3408bc2e.js.map": "/Incubator-HW/static/js/main.3408bc2e.js.map",
+    "main.1eb5afe1.js.map": "/Incubator-HW/static/js/main.1eb5afe1.js.map",
     "787.66cb4309.chunk.js.map": "/Incubator-HW/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.284c7a1f.css",
-    "static/js/main.3408bc2e.js"
+    "static/js/main.1eb5afe1.js"
   ]
 }
